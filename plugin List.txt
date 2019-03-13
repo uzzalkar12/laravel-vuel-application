@@ -1,0 +1,10 @@
+1. https://sweetalert2.github.io/
+2. https://github.com/cretueusebiu/vform
+3. https://github.com/hilongjw/vue-progressbar
+4. https://momentjs.com/
+6. Install Passport from laravel
+7. https://github.com/JosephSilber/bouncer
+8. https://github.com/Zizaco/entrust
+9. https://github.com/kodeine/laravel-acl
+10. Laravel Gate
+11. https://github.com/vuejs/awesome-vue
